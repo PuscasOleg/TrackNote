@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/MyAccount"
+            android:icon="@drawable/ic_baseline_person"
+            android:title="My Account" />
+
+        <item
+            android:id="@+id/AddTrip"
+            android:icon="@drawable/ic_baseline_add"
+            android:title="Add Trip" />
+
+
+        <item android:title="@string/Others">
+            <menu>
+                <item
+                    android:id="@+id/menuProfile"
+                    android:title="@string/Settings"
+                    />
+
+            </menu>
+
+
+        </item>
+
+    </group>
+
+</menu>

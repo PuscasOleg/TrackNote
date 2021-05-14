@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1038896313040",
+    "project_id": "tracknote-bde3c",
+    "storage_bucket": "tracknote-bde3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038896313040:android:5475ea41fa21e29844e4d5",
+        "android_client_info": {
+          "package_name": "com.example.tracknote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038896313040-u8f77khkfe56kcfblsug10pj46ad2vra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tracknote",
+            "certificate_hash": "206b2413317fd460479008e8028c2512a8aaa6a7"
+          }
+        },
+        {
+          "client_id": "1038896313040-c86ai5kj1rtu7hqk2e7u7jt9132l4e1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1kYRULkGqRxY6PLe9MEj55GNTGKZYoys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038896313040-c86ai5kj1rtu7hqk2e7u7jt9132l4e1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
